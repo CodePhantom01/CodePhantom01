@@ -3,7 +3,7 @@
 # Hi, I'm Rohit Pratap Singh 👋
 
 **B.Tech CSE @ IIIT Kottayam** • **Full-Stack (MERN) & SDE Aspirant**  
-I enjoy building fast, clean, and user-focused web apps—and I practice problem solving daily.
+I enjoy building fast, clean, and user-focused web apps—and I practice problem solving.
 
 ---
 
