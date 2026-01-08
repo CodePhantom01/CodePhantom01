@@ -92,9 +92,7 @@ As an **aspiring Software Development Engineer (SDE)**, I am particularly intere
 ## 📫 Connect With Me
 
 - 📧 Email: **rohit.psingh.cse@gmail.com**
-- 💼 LinkedIn: *LinkedIn Profile*
-- 💻 GitHub: *GitHub Profile*
-- 🧩 LeetCode: *LeetCode Profile*
+- 💼 LinkedIn: [Rohit Pratap Singh](https://www.linkedin.com/in/rohit-pratap-singh-922166296/)
 
 ---
 
