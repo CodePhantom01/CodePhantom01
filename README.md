@@ -84,7 +84,7 @@ As an **aspiring Software Development Engineer (SDE)**, I am particularly intere
 
 ## 🏆 Achievements
 
-- Solved **150+ Data Structures & Algorithms problems** on LeetCode and GeeksforGeeks.
+- Solved **200+ Data Structures & Algorithms problems** on LeetCode and GeeksforGeeks.
 - Led a **4-member team** in a college-level esports tournament.
 
 ---
