@@ -115,4 +115,4 @@ I enjoy designing **robust RESTful APIs**, implementing **secure authentication 
 
 ---
 
-⭐ *Always learning, building, and evolving as a Software Engineer.*
+*Always learning, building, and evolving as a Software Engineer.*
